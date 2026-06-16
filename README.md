@@ -12,6 +12,12 @@ The implementation includes:
 - **Interactive camera controls**: Real-time navigation and viewing angle manipulation
 - **Texture mapping**: UV-mapped textures applied to 3D geometry
 
+## Demo
+
+![RedNoise Application Demo](Copy%20of%20cw_zt22740%20-%20Made%20with%20Clipchamp.gif)
+
+The demo showcases the complete application featuring ray-traced rendering with Gouraud shading, interactive camera controls, real-time model manipulation, and texture mapping.
+
 ## Features
 
 ### Graphics Rendering
