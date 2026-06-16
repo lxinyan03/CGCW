@@ -141,23 +141,6 @@ The application supports keyboard controls for real-time camera manipulation:
 | `U` | Draw random triangle |
 | `MOUSE CLICK` | Save current frame as output.bmp and output.ppm |
 
-## Rendering Details
-
-### Shading Models
-
-The engine implements **Gouraud shading**, which calculates lighting at vertices and interpolates color values across triangle surfaces for smooth lighting transitions.
-
-### Depth Buffering
-
-Proper depth testing ensures correct occlusion handling - closer surfaces are rendered over distant ones. The depth buffer is initialized and maintained throughout each frame.
-
-### Ray Tracing Features
-
-- Ray-surface intersection detection
-- Shadow computation for realistic lighting
-- Texture mapping integration
-- Efficient spatial computations
-
 ---
 
 **Developed as a Computer Graphics Coursework (CGCW) project**
